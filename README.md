@@ -8,3 +8,4 @@
 
 #### Quarta modificação
 * comando git push
+* comando git pull
